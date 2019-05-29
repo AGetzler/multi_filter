@@ -1,0 +1,8 @@
+Units,Source,Target,Multiplier
+length,feet,inches,12
+"length","miles","feet","5280"
+"length","inches","cm","2.54"
+"time","hours","minutes","60"
+"time","minutes","seconds","60"
+"time","seconds","milliseconds","1000"
+"time","milliseconds","seconds","0.001"
